@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Predator00"
+  id="myeclipse.1400510019242"
+  context-root="/Predator00"
+  j2ee-spec="5.0"
+  archive="Predator00.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
